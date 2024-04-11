@@ -1,0 +1,14 @@
+section
+{
+    border: 1px solid black;
+    margin-top: 80px;
+    margin-right: 100px;
+    width: 200px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+article
+{
+    border: 2px solid red;
+    margin: auto;
+}
